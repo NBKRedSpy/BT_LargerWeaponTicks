@@ -1,3 +1,7 @@
+# Replaced
+
+Replaced by BT_CustomWeaponTicks
+
 # BT_LargerWeaponTicks
 Customizes the size of the weapon range ticks in combat.
 
